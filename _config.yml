@@ -1,12 +1,12 @@
 # Site
-name: 'Architrave Engineering'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
+name: 'Sanitizer Wristbands'
+description: 'Sanitizer Wristbands - Clean & Safe Hands Everyone, All Day, Everyday'
+logo: 'assets/images/swb_logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'architrave_engineering'
-email: 'engineering@architrave.de'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+baseurl: '/'
+disqus: ''
+email: 'info@sanitizerwristbands.com'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
@@ -21,18 +21,18 @@ plugins:
 authors:
     samuel:
       name:           Samuel
-      site:           https://hubofco.de
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "I'm a backend engineer at Architrave"
+      site:           ""
+      avatar:         ""
+      bio:           ""
       twitter:        https://twitter.com/samueljabiodun
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      name:           Olalekan
+      site:           ""
+      avatar:         ""
+      bio:            ""
+      email:          ""
+      twitter:        ""
  
 # Defaults
 defaults:
