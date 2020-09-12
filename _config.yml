@@ -37,13 +37,13 @@ plugins:
 - jekyll-seo-tag
 authors:
   samuel:
-    name: Samuel
+    name: Samuel James
     site: ''
     avatar: ''
     bio: ''
     twitter: https://twitter.com/samueljabiodun
-  jane:
-    name: Olalekan
+  olalekan:
+    name: Olalekan Elesin
     site: ''
     avatar: ''
     bio: ''
