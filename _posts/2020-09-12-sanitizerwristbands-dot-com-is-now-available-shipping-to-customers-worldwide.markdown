@@ -7,13 +7,13 @@ categories:
 tags:
 - SanitizerWristbands
 author: olalekan
-canonical_url: https://medium.com/sanitizerwristbands/sanitizerwristbands-com-is-now-available-shipping-to-customers-worldwide-44e5cd987a4d
+canonical_url: https://res.cloudinary.com/samueljames/image/upload/v1599978922/1_iToOq9U_qqePffumMtcEQg.jpg
 image: https://miro.medium.com/max/2000/1\*iToOq9U_qqePffumMtcEQg.jpeg
 ---
 
 Four months ago, I wrote about [maintaining hand hygiene with sanitizer bracelets](https://medium.com/@elesin.olalekan/maintaining-hand-hygiene-with-new-sanitizer-bracelets-d52bc0e8f647), and asked people to pre-order. Today, after weeks of iterating over several designs, 3D prototypes, and injection mold designs, I am glad to announce that we the first version of [SanitizerWristbands](https://sanitizerwristbands.com/).
 
-![Image for post](https://miro.medium.com/max/2000/1\*iToOq9U_qqePffumMtcEQg.jpeg)SanitizerWristbands GT1 — [SanitizerWristbands.com](https://sanitizerwristbands.com/)
+![Image for post](https://res.cloudinary.com/samueljames/image/upload/v1599978922/1_iToOq9U_qqePffumMtcEQg.jpg)SanitizerWristbands GT1 — [SanitizerWristbands.com](https://sanitizerwristbands.com/)
 
 With these our designs available, [our online store is now live](https://sanitizerwristbands.com/shop) and accepting orders. And we start shipping and delivery to customers worldwide from August 4, 2020. Why wait, you may ask. We have already delivered samples for our initial customers for further feedback which for us has been super massive. With our sanitizer bracelets, SanitizerWristbands, you can fill with hand sanitizer gel, e.g. [Purell hand sanitizer](https://www.purell.eu/en/categories/hand-sanitising) or [DIY homemade hand sanitizer](https://www.wired.com/story/how-to-make-hand-sanitizer/) or any other hand sanitizer liquid. Simply fill, press and rub, and you have your hands sanitized. Please see demo video below:
 
@@ -37,6 +37,6 @@ Visit our online store to buy your sanitizer bracelets and enjoy **10% discount*
 
 We are super excited to see you healthy and can’t wait to see your #SanitizerWristbandStory.
 
-![Image for post](https://miro.medium.com/max/5120/1\*-CsjAGfFugVtIJXzW82ncA.jpeg)
+![Image for post](https://res.cloudinary.com/samueljames/image/upload/v1599978964/1_-CsjAGfFugVtIJXzW82ncA.jpg)
 
-![Image for post](https://miro.medium.com/max/5120/1\*J5fdtQwO8ma6wdDV_m5Nkw.jpeg)
+![Image for post](https://res.cloudinary.com/samueljames/image/upload/v1599978999/1_J5fdtQwO8ma6wdDV_m5Nkw.jpg)
