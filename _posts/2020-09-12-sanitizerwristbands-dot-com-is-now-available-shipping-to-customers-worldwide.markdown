@@ -39,4 +39,4 @@ We are super excited to see you healthy and can’t wait to see your #SanitizerW
 
 ![Image for post](https://res.cloudinary.com/samueljames/image/upload/v1599978964/1_-CsjAGfFugVtIJXzW82ncA.jpg)
 
-![Image for post](https://miro.medium.com/max/5120/1\*J5fdtQwO8ma6wdDV_m5Nkw.jpeg)
+![Image for post](https://res.cloudinary.com/samueljames/image/upload/v1599978999/1_J5fdtQwO8ma6wdDV_m5Nkw.jpg)
