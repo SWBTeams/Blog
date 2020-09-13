@@ -7,8 +7,8 @@ categories:
 tags:
 - SanitizerWristbands
 author: olalekan
-canonical_url: https://res.cloudinary.com/samueljames/image/upload/v1599978922/1_iToOq9U_qqePffumMtcEQg.jpg
-image: https://miro.medium.com/max/2000/1\*iToOq9U_qqePffumMtcEQg.jpeg
+canonical_url: https://medium.com/sanitizerwristbands/sanitizerwristbands-com-is-now-available-shipping-to-customers-worldwide-44e5cd987a4d
+image: https://res.cloudinary.com/samueljames/image/upload/v1599978922/1_iToOq9U_qqePffumMtcEQg.jpg
 ---
 
 Four months ago, I wrote about [maintaining hand hygiene with sanitizer bracelets](https://medium.com/@elesin.olalekan/maintaining-hand-hygiene-with-new-sanitizer-bracelets-d52bc0e8f647), and asked people to pre-order. Today, after weeks of iterating over several designs, 3D prototypes, and injection mold designs, I am glad to announce that we the first version of [SanitizerWristbands](https://sanitizerwristbands.com/).
@@ -39,4 +39,4 @@ We are super excited to see you healthy and can’t wait to see your #SanitizerW
 
 ![Image for post](https://res.cloudinary.com/samueljames/image/upload/v1599978964/1_-CsjAGfFugVtIJXzW82ncA.jpg)
 
-![Image for post](https://res.cloudinary.com/samueljames/image/upload/v1599978999/1_J5fdtQwO8ma6wdDV_m5Nkw.jpg)
+![Image for post](https://miro.medium.com/max/5120/1\*J5fdtQwO8ma6wdDV_m5Nkw.jpeg)
